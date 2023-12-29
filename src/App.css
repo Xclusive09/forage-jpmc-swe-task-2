@@ -27,6 +27,7 @@
   align-items: center;
   justify-content: center;
   margin-bottom: 12px;
+  border-color: red;
 }
 
 .Stream-button {
@@ -37,6 +38,8 @@
   min-height: 50vh;
   width: 700px;
   margin-bottom: 12px;
+  border-color: yellow;
+
 }
 
 @keyframes App-logo-spin {
